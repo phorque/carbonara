@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "name": "Carbonara",
+    "icon": "./icon.png",
+    "version": "1.0.0",
+    "slug": "carbonara",
+    "androidStatusBarColor": "#BDBDBD",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#BDBDBD"
+    },
+    "android": {
+      "package": "it.phorque.carbonara",
+      "permissions": [
+      ]
+    }
+  }
+}
